@@ -55,5 +55,3 @@ Este projeto está licenciado sob a licença [MIT](LICENSE).
 ### 📢 Observação
 Se você utiliza este projeto em sua pesquisa ou trabalho, considere dar uma estrela ⭐ no repositório para ajudar a divulgar!
 ```
-
-Caso tenha mais informações ou requisitos específicos, posso ajustar o conteúdo do README para refletir melhor os detalhes do projeto.
