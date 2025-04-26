@@ -1,6 +1,6 @@
 Aqui está um exemplo de um arquivo `README.md` para o seu projeto:
 
-```markdown
+
 # AtlanticoAvanti
 
 Este repositório contém notebooks e códigos relacionados à **segmentação de imagens de retina**. O objetivo principal do projeto é aplicar técnicas de visão computacional para analisar imagens médicas, com foco em identificar regiões de interesse em imagens da retina.
