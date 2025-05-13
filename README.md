@@ -1,5 +1,5 @@
 
-# AtlanticoAvanti
+# Machine Learning: Segmentação de Imagens de Vasos Oculares com Visão Computacional
 
 Este repositório contém notebooks e códigos relacionados à **segmentação de imagens de retina**. O objetivo principal do projeto é aplicar técnicas de visão computacional para analisar imagens médicas, com foco em identificar regiões de interesse em imagens da retina.
 
